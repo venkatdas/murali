@@ -10,7 +10,8 @@ function myFun(){
         document.getElementById('a').value = '';
         document.getElementById('b').focus();
      }else{
-         alert("false")
+         alert("Added one ore progress bar")
+         
      }
 
 }
