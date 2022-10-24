@@ -11,6 +11,7 @@ function myFun(){
         document.getElementById('b').focus();
      }else{
          alert("Added one ore progress bar")
+        
          
      }
 
