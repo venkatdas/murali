@@ -10,7 +10,7 @@ function myFun(){
         document.getElementById('a').value = '';
         document.getElementById('b').focus();
      }else{
-         alert("Added one ore progress bar")
+         alert("Added one ore progress bar added extra lime 17.46 24/10/2022")
         
          
      }
